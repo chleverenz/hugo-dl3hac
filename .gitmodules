@@ -1,0 +1,3 @@
+[submodule "themes/hugo-hamradio"]
+	path = themes/hugo-hamradio
+	url = https://github.com/chleverenz/hugo-hamradio.git
